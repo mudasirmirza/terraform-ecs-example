@@ -1,5 +1,6 @@
 /*
-This does not cover creation of VPC all that you 
+This does not cover creation of VPC, subnet,
+NAT gateways, IGW, Route tables. All that you 
 will need to create separately
 
 You need to place this file in the directory where 
